@@ -11,3 +11,35 @@
 ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
 ![](https://img.shields.io/badge/-MarkDown-black?style=for-the-badge&logo=markdown)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8855d6)
+
+## 3 semestr
+- Programming languages (C++, Python)
+  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures)
+  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lab-1-variant-4)
+  - [Lab4](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4)
+  - [Lab5](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5)
+  - [Lab6](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6)
+- Programming languages (PHP)
+  - [Course work](https://github.com/PavelGalanin2001/3-semestr-YP_coursework)
+  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1)
+  - [Lab2](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2)
+- Interface and software development technologies (C#, XAML)
+  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures)
+  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1)
+- Decision making methods and algorithms (Python)
+  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures)
+  - [Labs](https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs)
+- Discrete math (Python)
+  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1)
+  - [Lab2](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2)
+  
+## 2 semestr
+- Fundamentals of algorithmization and programming (C)
+  - [Course work](https://github.com/PavelGalanin2001/2-semestr-OAiP_course-work)
+  
+## 1 semestr
+- Fundamentals of algorithmization and programming (cmd, C)
+  - [Lab1](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-1)
+  - [Lab2](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-2)
+  - [Lab4](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4)
+  - [Lab5](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4)
