@@ -24,7 +24,7 @@
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1)
   - [Lab2](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2)
 - Interface and software development technologies (C#, XAML)
-  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures)
+  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures)
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1)
 - Decision making methods and algorithms (Python)
   - [Lectures](https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures)
