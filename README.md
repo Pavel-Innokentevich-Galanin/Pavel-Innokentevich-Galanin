@@ -20,6 +20,7 @@
   - [Lab5](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5)
   - [Lab6](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6)
 - Programming languages (PHP)
+  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/)
   - [Course work](https://github.com/PavelGalanin2001/3-semestr-YP_coursework)
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1)
   - [Lab2](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2)
