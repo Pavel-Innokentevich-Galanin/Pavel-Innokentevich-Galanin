@@ -14,7 +14,7 @@
 
 ## 3 semestr
 - Programming languages (C++, Python)
-  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures)
+  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/)
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lab-1-variant-4)
   - [Lab4](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4)
   - [Lab5](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5)
