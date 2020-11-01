@@ -15,65 +15,58 @@
 
 ## 3 semestr
 
-- ![](https://img.shields.io/badge/-Programming_languages-yellow?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Языки_программирования-red?style=for-the-badge)
-  ![](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481)
-  ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
-  ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
-  ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
+### Programming languages
+### Языки программирования
+![](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481)
+![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
   - [Lectures](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/)
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lab-1-variant-4)
   - [Lab4](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4)
   - [Lab5](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5)
   - [Lab6](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6)
-  
-- ![](https://img.shields.io/badge/-Programming_languages-yellow?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Языки_программирования-red?style=for-the-badge)
-  ![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
-  ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+### Programming languages
+### Языки программирования
+![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
   - [Lectures](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/)
   - [Course work](https://github.com/PavelGalanin2001/3-semestr-YP_coursework)
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1)
   - [Lab2](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-2)
-  
-  
-- ![](https://img.shields.io/badge/-Interface_and_software_development_technologies-yellow?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Технологии_разработки_интерфейса_and_программных_средств-red?style=for-the-badge)
-  ![](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C)
-  ![](https://img.shields.io/badge/-XAML-black?style=for-the-badge&logo=XAML)
-  ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+### Interface and software development technologies
+### Технологии разработки интерфейса и программных средств 
+![](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C)
+![](https://img.shields.io/badge/-XAML-black?style=for-the-badge&logo=XAML)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
   - [Lectures](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures)
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1)
-  
-- ![](https://img.shields.io/badge/-Decision_making_methods_and_algorithms-yellow?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Методы_and_алгоритмы_принятия_решений-red?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
-  ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
+### Decision making methods and algorithms
+### Методы и алгоритмы принятия решений
+![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
+![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
   - [Lectures](https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures)
   - [Labs](https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs)
-  
-- ![](https://img.shields.io/badge/-Discrete_math-yellow?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Дискретная_математика-red?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
-  ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+### Discrete math
+### Дискретная математика 
+![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
   - [Lab1](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1)
   - [Lab2](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2)
   
 ## 2 semestr
-
-- ![](https://img.shields.io/badge/-Fundamentals_of_algorithmization_and_programming-yellow?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Основы_алгоритмизации_and_программирования-red?style=for-the-badge)
-  ![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
-  ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+### Fundamentals of algorithmization and programming
+### Основы алгоритмизации и программирования
+![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
   - [Course work](https://github.com/PavelGalanin2001/2-semestr-OAiP_course-work)
   
 ## 1 semestr
-
-- ![](https://img.shields.io/badge/-Fundamentals_of_algorithmization_and_programming-yellow?style=for-the-badge)
-  ![](https://img.shields.io/badge/-Основы_алгоритмизации_and_программирования-red?style=for-the-badge)
-  ![](https://img.shields.io/badge/-cmd-black?style=for-the-badge&logo=Microsoft)
-  ![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
-  ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+### Fundamentals of algorithmization and programming
+### Основы алгоритмизации и программирования
+![](https://img.shields.io/badge/-cmd-black?style=for-the-badge&logo=Microsoft)
+![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
   - [Lab1](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-1)
   - [Lab2](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-2)
   - [Lab4](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4)
