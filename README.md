@@ -48,6 +48,7 @@
 ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
   - [Lectures](https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures)
   - [Labs](https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs)
+  - [Lab3](https://github.com/PavelGalanin2001/3-semestr-MiAPR_lab-3)
 ### Discrete math
 ### Дискретная математика 
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
