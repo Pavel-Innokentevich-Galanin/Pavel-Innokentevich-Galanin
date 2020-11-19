@@ -160,9 +160,62 @@
 ### Методы и алгоритмы принятия решений
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
-  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures)
-  - [Labs](https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs)
-  - [Lab3](https://github.com/PavelGalanin2001/3-semestr-MiAPR_lab-3)
+
+<table>
+  <thead>
+    <tr>
+      <td>Type</td>
+      <td>Language</td>
+      <td>Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lectures</td>
+      <td></td>
+      <td>Лекции</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures</td>
+    </tr>
+    <tr>
+      <td>Lab 1</td>
+      <td>different: Python</td>
+      <td>Линейная искусственная нейронная сеть. Правило обучения Видроу-Хоффа</td>
+      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
+        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
+    </tr>
+    <tr>
+      <td>Lab 2</td>
+      <td>different: Python</td>
+      <td>Линейная искусственная нейронная сеть. Адаптивный шаг обучения</td>
+      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
+        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
+    </tr>
+      <tr>
+      <td>Lab 3</td>
+      <td>different: Python</td>
+      <td>Нелинейные ИНС в задачах прогнозирования</td>
+      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
+        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs<br/>
+        https://github.com/PavelGalanin2001/3-semestr-MiAPR_lab-3</td>
+    </tr>
+    <tr>
+      <td>Lab 4</td>
+      <td>different: Python</td>
+      <td>Нелинейные ИНС в задачах прогнозирования</td>
+      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
+        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
+    </tr>
+    <tr>
+      <td>Lab 5</td>
+      <td>different: Python</td>
+      <td>Нелинейные ИНС в задачах распознавания образов</td>
+      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
+        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Discrete math
 ### Дискретная математика 
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
