@@ -108,8 +108,8 @@
   <tbody>
     <tr>
       <td>Lectures</td>
-      <td>C++</td>
-      <td>Лекции по C++</td>
+      <td>PHP</td>
+      <td>Лекции по PHP</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures<br/>
         https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/</td>
     </tr>
@@ -179,7 +179,8 @@
   <tbody>
     <tr>
       <td>Lectures</td>
-      <td>C++</td>
+      <td>C#<br/>
+        XAML</td>
       <td>Лекции по WPF</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures<br/>
         https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures</td>
