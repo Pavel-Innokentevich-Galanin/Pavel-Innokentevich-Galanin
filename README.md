@@ -21,12 +21,69 @@
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
 ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
-  - [Lectures C++](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/)
-  - [Lectures Python](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-YP-Python_lectures/)
-  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lab-1-variant-4)
-  - [Lab4](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4)
-  - [Lab5](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5)
-  - [Lab6](https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6)
+
+
+<table>
+  <thead>
+    <tr>
+      <td>Type</td>
+      <td>Language</td>
+      <td>Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lectures</td>
+      <td>C++</td>
+      <td>Лекции по C++</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/</td>
+    </tr>
+    <tr>
+      <td>Lab 1</td>
+      <td>C++</td>
+      <td>Классы и объекты С++</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lab-1-variant-4</td>
+    </tr>
+    <tr>
+      <td>Lab 2</td>
+      <td>C++</td>
+      <td>Наследование и виртуальные функции</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab 3</td>
+      <td>C++</td>
+      <td>Перегрузка операторов</td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>Lectures</td>
+      <td>Python</td>
+      <td>Лекции по Python</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures https://pavelgalanin2001.github.io/3-semestr-YP-Python_lectures/</td>
+    </tr>
+    <tr>
+      <td>Lab 4</td>
+      <td>Python</td>
+      <td>Строки. Списоки. Матрицы. Функции</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4</td>
+    </tr>
+    <tr>
+      <td>Lab 5</td>
+      <td>Python</td>
+      <td>Библиотека "os". Работа с "CSV" файлами</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5</td>
+    </tr>
+    <tr>
+      <td>Lab 6</td>
+      <td>Python</td>
+      <td>Классы. Инкапсуляция. Наследование</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Programming languages
 ### Языки программирования
 ![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
