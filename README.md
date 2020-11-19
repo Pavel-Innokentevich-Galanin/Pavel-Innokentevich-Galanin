@@ -22,7 +22,6 @@
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
 ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
 
-
 <table>
   <thead>
     <tr>
@@ -88,10 +87,68 @@
 ### Языки программирования
 ![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
-  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/)
-  - [Course work](https://github.com/PavelGalanin2001/3-semestr-YP_coursework)
-  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1)
-  - [Lab2](https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-2)
+
+<table>
+  <thead>
+    <tr>
+      <td>Type</td>
+      <td>Language</td>
+      <td>Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lectures</td>
+      <td>C++</td>
+      <td>Лекции по C++</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/</td>
+    </tr>
+    <tr>
+      <td>Course work</td>
+      <td>PHP/SQL/Bootstrap</td>
+      <td>Информационная система "Продукты"</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP_coursework</td>
+    </tr>
+    <tr>
+      <td>Lab 1</td>
+      <td>HTML/PHP</td>
+      <td>Язык разметки гипертекста HTML. Начало работы</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1</td>
+    </tr>
+    <tr>
+      <td>Lab 2</td>
+      <td>PHP</td>
+      <td>Передача параметров на сервер по HTTP протоколу. GET и POST запросы.</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-2</td>
+    </tr>
+      <tr>
+      <td>Lab 3</td>
+      <td>PHP</td>
+      <td>Функциональное программирование на языке PHP</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab 4</td>
+      <td>PHP</td>
+      <td>Механизм сессий в PHP.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab 5</td>
+      <td>PHP</td>
+      <td>Объекты и классы</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab 6</td>
+      <td>PHP</td>
+      <td>Работа с БД в PHP</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Interface and software development technologies
 ### Технологии разработки интерфейса и программных средств 
 ![](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C)
