@@ -220,9 +220,42 @@
 ### Дискретная математика 
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
-  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1)
-  - [Lab2](https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2)
-  
+
+<table>
+  <thead>
+    <tr>
+      <td>Type</td>
+      <td>Language</td>
+      <td>Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab 1</td>
+      <td>different: Python</td>
+      <td>Множества</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1</td>
+    </tr>
+    <tr>
+      <td>Lab 2</td>
+      <td>different: Python</td>
+      <td>Отношения
+        <br/>Функции</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2</td>
+    </tr>
+    <tr>
+      <td>Lab 3</td>
+      <td>different</td>
+      <td>Остовные деревья<br/>
+        Кодирование деревьев<br/>
+        Графы<br/>
+        Дейкстры</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 2 semestr
 ### Fundamentals of algorithmization and programming
 ### Основы алгоритмизации и программирования
