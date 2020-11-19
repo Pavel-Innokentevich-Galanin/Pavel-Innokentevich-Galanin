@@ -36,7 +36,8 @@
       <td>Lectures</td>
       <td>C++</td>
       <td>Лекции по C++</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures<br/>
+        https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/</td>
     </tr>
     <tr>
       <td>Lab 1</td>
@@ -60,24 +61,31 @@
       <td>Lectures</td>
       <td>Python</td>
       <td>Лекции по Python</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures https://pavelgalanin2001.github.io/3-semestr-YP-Python_lectures/</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures<br/>
+        https://pavelgalanin2001.github.io/3-semestr-YP-Python_lectures/</td>
     </tr>
     <tr>
       <td>Lab 4</td>
       <td>Python</td>
-      <td>Строки. Списоки. Матрицы. Функции</td>
+      <td>Строки<br/>
+        Списоки<br/>
+        Матрицы<br/>
+        Функции</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4</td>
     </tr>
     <tr>
       <td>Lab 5</td>
-      <td>Python</td>
+      <td>Python<br/>
+        CSV</td>
       <td>Библиотека "os". Работа с "CSV" файлами</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5</td>
     </tr>
     <tr>
       <td>Lab 6</td>
       <td>Python</td>
-      <td>Классы. Инкапсуляция. Наследование</td>
+      <td>Классы<br/>
+        Инкапсуляция<br/>
+        Наследование</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6</td>
     </tr>
   </tbody>
@@ -102,17 +110,21 @@
       <td>Lectures</td>
       <td>C++</td>
       <td>Лекции по C++</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures<br/>
+        https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/</td>
     </tr>
     <tr>
       <td>Course work</td>
-      <td>PHP/SQL/Bootstrap</td>
+      <td>PHP<br/>
+        SQL<br/>
+        Bootstrap</td>
       <td>Информационная система "Продукты"</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP_coursework</td>
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td>HTML/PHP</td>
+      <td>HTML<br/>
+        PHP</td>
       <td>Язык разметки гипертекста HTML. Начало работы</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1</td>
     </tr>
@@ -179,21 +191,24 @@
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td>different: Python</td>
+      <td>different:<br/>
+        Python</td>
       <td>Линейная искусственная нейронная сеть. Правило обучения Видроу-Хоффа</td>
       <td>https://github.com/kroschenko/miapr_po4_2020<br/>
         https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td>different: Python</td>
+      <td>different:<br/>
+        Python</td>
       <td>Линейная искусственная нейронная сеть. Адаптивный шаг обучения</td>
       <td>https://github.com/kroschenko/miapr_po4_2020<br/>
         https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
     </tr>
       <tr>
       <td>Lab 3</td>
-      <td>different: Python</td>
+      <td>different:<br/>
+        Python</td>
       <td>Нелинейные ИНС в задачах прогнозирования</td>
       <td>https://github.com/kroschenko/miapr_po4_2020<br/>
         https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs<br/>
@@ -201,14 +216,16 @@
     </tr>
     <tr>
       <td>Lab 4</td>
-      <td>different: Python</td>
+      <td>different:<br/>
+        Python</td>
       <td>Нелинейные ИНС в задачах прогнозирования</td>
       <td>https://github.com/kroschenko/miapr_po4_2020<br/>
         https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
     </tr>
     <tr>
       <td>Lab 5</td>
-      <td>different: Python</td>
+      <td>different:<br/>
+        Python</td>
       <td>Нелинейные ИНС в задачах распознавания образов</td>
       <td>https://github.com/kroschenko/miapr_po4_2020<br/>
         https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
@@ -233,13 +250,15 @@
   <tbody>
     <tr>
       <td>Lab 1</td>
-      <td>different: Python</td>
+      <td>different:<br/>
+        Python</td>
       <td>Множества</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td>different: Python</td>
+      <td>different:<br/>
+        Python</td>
       <td>Отношения
         <br/>Функции</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2</td>
