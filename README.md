@@ -166,8 +166,50 @@
 ![](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/-XAML-black?style=for-the-badge&logo=XAML)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
-  - [Lectures](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures). Open as [website](https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures)
-  - [Lab1](https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1)
+
+<table>
+  <thead>
+    <tr>
+      <td>Type</td>
+      <td>Language</td>
+      <td>Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lectures</td>
+      <td>C++</td>
+      <td>Лекции по WPF</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures<br/>
+        https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures</td>
+    </tr>
+    <tr>
+      <td>Lab 1</td>
+      <td>C#<br/>
+        XAML</td>
+      <td>Введение в XAML и WPF<br/>
+        Основные элементы управления WPF</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1</td>
+    </tr>
+    <tr>
+      <td>Lab 2</td>
+      <td>C#<br/>
+        XAML</td>
+      <td>Диспетчеры компановки<br/>
+        Привязка данных</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab 3</td>
+      <td>C#<br/>
+        XAML</td>
+      <td>Стили</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+  
 ### Decision making methods and algorithms
 ### Методы и алгоритмы принятия решений
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
