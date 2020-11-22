@@ -199,7 +199,7 @@
         XAML</td>
       <td>Диспетчеры компановки<br/>
         Привязка данных</td>
-      <td></td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-2</td>
     </tr>
     <tr>
       <td>Lab 3</td>
