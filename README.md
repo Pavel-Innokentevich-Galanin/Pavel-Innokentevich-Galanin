@@ -213,7 +213,7 @@
         Множественный триггер (MultiTrigger)<br />
         Множественный триггер привязки (MultiDataTrigger)
       </td>
-      <td></td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-3</td>
     </tr>
     <tr>
       <td>Lab 4</td>
@@ -223,7 +223,7 @@
         Класс <Тип>Animation<br />
         Класс Storyboard - раскадровка
       </td>
-      <td></td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-4</td>
     </tr>
   </tbody>
 </table>
