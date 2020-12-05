@@ -189,7 +189,8 @@
       <td>Lab 1</td>
       <td>C#<br/>
         XAML</td>
-      <td>Введение в XAML и WPF<br/>
+      <td>
+        Введение в XAML и WPF<br/>
         Основные элементы управления WPF</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1</td>
     </tr>
@@ -197,15 +198,31 @@
       <td>Lab 2</td>
       <td>C#<br/>
         XAML</td>
-      <td>Диспетчеры компановки<br/>
-        Привязка данных</td>
+      <td>
+        Диспетчеры компановки<br/>
+        Привязка данных
+      </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-2</td>
     </tr>
     <tr>
       <td>Lab 3</td>
-      <td>C#<br/>
-        XAML</td>
-      <td>Стили</td>
+      <td>XAML</td>
+      <td>Стили<br />
+        Простой триггер (Trigger)<br />
+        Триггер привязки (DataTrigger)<br />
+        Множественный триггер (MultiTrigger)<br />
+        Множественный триггер привязки (MultiDataTrigger)
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab 4</td>
+      <td>XAML</td>
+      <td>
+        Типы анимации<br />
+        Класс <Тип>Animation<br />
+        Класс Storyboard - раскадровка
+      </td>
       <td></td>
     </tr>
   </tbody>
