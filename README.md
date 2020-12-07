@@ -326,11 +326,26 @@
     <tr>
       <td>Lab 3</td>
       <td>different</td>
-      <td>Остовные деревья<br/>
+      <td>
+        Остовные деревья<br/>
         Кодирование деревьев<br/>
         Графы<br/>
-        Дейкстры</td>
-      <td></td>
+        Дейкстры
+      </td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-3</td>
+    </tr>
+    <tr>
+      <td>Lab 4</td>
+      <td>
+        different:<br />
+        Python<br />
+        C
+      </td>
+      <td>
+        Группы<br />
+        Комбинаторика
+      </td>
+      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-4</td>
     </tr>
   </tbody>
 </table>
