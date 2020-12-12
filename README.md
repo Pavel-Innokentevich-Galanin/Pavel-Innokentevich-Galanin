@@ -51,8 +51,11 @@
       <td>Lectures</td>
       <td>C++</td>
       <td>Лекции по C++</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures<br/>
-        https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/</td>
+      <td>
+        https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures
+        <br /><br />
+        https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/
+      </td>
     </tr>
     <tr>
       <td>Lab 1</td>
@@ -76,31 +79,46 @@
       <td>Lectures</td>
       <td>Python</td>
       <td>Лекции по Python</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures<br/>
-        https://pavelgalanin2001.github.io/3-semestr-YP-Python_lectures/</td>
+      <td>
+        https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures
+        <br /><br />
+        https://pavelgalanin2001.github.io/3-semestr-YP-Python_lectures/
+      </td>
     </tr>
     <tr>
       <td>Lab 4</td>
       <td>Python</td>
-      <td>Строки<br/>
-        Списоки<br/>
-        Матрицы<br/>
-        Функции</td>
+      <td>
+        Строки
+        <br />
+        Списоки
+        <br />
+        Матрицы
+        <br />
+        Функции
+      </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4</td>
     </tr>
     <tr>
       <td>Lab 5</td>
-      <td>Python<br/>
-        CSV</td>
+      <td>
+        Python
+        <br />
+        CSV
+      </td>
       <td>Библиотека "os". Работа с "CSV" файлами</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5</td>
     </tr>
     <tr>
       <td>Lab 6</td>
       <td>Python</td>
-      <td>Классы<br/>
-        Инкапсуляция<br/>
-        Наследование</td>
+      <td>
+        Классы
+        <br />
+        Инкапсуляция
+        <br />
+        Наследование
+      </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6</td>
     </tr>
   </tbody>
@@ -123,28 +141,46 @@
       <td>Lectures</td>
       <td>PHP</td>
       <td>Лекции по PHP</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures<br/>
-        https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/</td>
+      <td>
+        https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures
+        <br /><br />
+        https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/
+      </td>
     </tr>
     <tr>
       <td>Course work</td>
-      <td>PHP<br/>
-        SQL<br/>
-        Bootstrap</td>
+      <td>
+        PHP
+        <br />
+        SQL
+        <br />
+        Bootstrap
+      </td>
       <td>Информационная система "Продукты"</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP_coursework</td>
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td>HTML<br/>
-        PHP</td>
-      <td>Язык разметки гипертекста HTML. Начало работы</td>
+      <td>
+        HTML
+        <br />
+        PHP
+      </td>
+      <td>
+        Язык разметки гипертекста HTML
+        <br />
+        Начало работы
+      </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
       <td>PHP</td>
-      <td>Передача параметров на сервер по HTTP протоколу. GET и POST запросы.</td>
+      <td>
+        Передача параметров на сервер по HTTP протоколу
+        <br />
+        GET и POST запросы
+      </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-2</td>
     </tr>
       <tr>
@@ -156,7 +192,7 @@
     <tr>
       <td>Lab 4</td>
       <td>PHP</td>
-      <td>Механизм сессий в PHP.</td>
+      <td>Механизм сессий в PHP</td>
       <td></td>
     </tr>
     <tr>
@@ -194,27 +230,42 @@
   <tbody>
     <tr>
       <td>Lectures</td>
-      <td>C#<br/>
-        XAML</td>
+      <td>
+        C#
+        <br />
+        XAML
+      </td>
       <td>Лекции по WPF</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures<br/>
-        https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures</td>
+      <td>
+        https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures
+        <br /><br />
+        https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures
+    </td>
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td>C#<br/>
-        XAML</td>
       <td>
-        Введение в XAML и WPF<br/>
-        Основные элементы управления WPF</td>
+        C#
+        <br />
+        XAML
+      </td>
+      <td>
+        Введение в XAML и WPF
+        <br />
+        Основные элементы управления WPF
+      </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td>C#<br/>
-        XAML</td>
       <td>
-        Диспетчеры компановки<br/>
+        C#
+        <br />
+        XAML
+      </td>
+      <td>
+        Диспетчеры компановки
+        <br />
         Привязка данных
       </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-2</td>
@@ -222,10 +273,15 @@
     <tr>
       <td>Lab 3</td>
       <td>XAML</td>
-      <td>Стили<br />
-        Простой триггер (Trigger)<br />
-        Триггер привязки (DataTrigger)<br />
-        Множественный триггер (MultiTrigger)<br />
+      <td>
+        Стили
+        <br />
+        Простой триггер (Trigger)
+        <br />
+        Триггер привязки (DataTrigger)
+        <br />
+        Множественный триггер (MultiTrigger)
+        <br />
         Множественный триггер привязки (MultiDataTrigger)
       </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-3</td>
@@ -234,8 +290,10 @@
       <td>Lab 4</td>
       <td>XAML</td>
       <td>
-        Типы анимации<br />
-        Класс <Тип>Animation<br />
+        Типы анимации
+        <br />
+        Класс <Тип>Animation
+        <br />
         Класс Storyboard - раскадровка
       </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-4</td>
@@ -268,36 +326,28 @@
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td>different:<br/>
-        Python</td>
+      <td rowspan="5">any</td>
       <td>Линейная искусственная нейронная сеть. Правило обучения Видроу-Хоффа</td>
       <td rowspan="5">
-        https://github.com/kroschenko/miapr_po4_2020<br/><br/>
+        https://github.com/kroschenko/miapr_po4_2020
+        <br /><br />
         https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs
       </td>
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td>different:<br/>
-        Python</td>
       <td>Линейная искусственная нейронная сеть. Адаптивный шаг обучения</td>
     </tr>
       <tr>
       <td>Lab 3</td>
-      <td>different:<br/>
-        Python</td>
       <td>Нелинейные ИНС в задачах прогнозирования</td>
     </tr>
     <tr>
       <td>Lab 4</td>
-      <td>different:<br/>
-        Python</td>
       <td>Нелинейные ИНС в задачах прогнозирования</td>
     </tr>
     <tr>
       <td>Lab 5</td>
-      <td>different:<br/>
-        Python</td>
       <td>Нелинейные ИНС в задачах распознавания образов</td>
     </tr>
   </tbody>
@@ -322,26 +372,28 @@
   <tbody>
     <tr>
       <td>Lab 1</td>
-      <td>different:<br/>
-        Python</td>
+      <td rowspan="4">any</td>
       <td>Множества</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td>different:<br/>
-        Python</td>
-      <td>Отношения
-        <br/>Функции</td>
+      <td>
+        Отношения
+        <br />
+        Функции
+      </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2</td>
     </tr>
     <tr>
       <td>Lab 3</td>
-      <td>different</td>
       <td>
-        Остовные деревья<br/>
-        Кодирование деревьев<br/>
-        Графы<br/>
+        Остовные деревья
+        <br />
+        Кодирование деревьев
+        <br />
+        Графы
+        <br />
         Дейкстры
       </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-3</td>
@@ -349,12 +401,8 @@
     <tr>
       <td>Lab 4</td>
       <td>
-        different:<br />
-        Python<br />
-        C
-      </td>
-      <td>
-        Группы<br />
+        Группы
+        <br />
         Комбинаторика
       </td>
       <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-4</td>
