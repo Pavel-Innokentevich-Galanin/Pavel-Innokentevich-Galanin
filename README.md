@@ -390,6 +390,41 @@
       <td>Водоемы страны</td>
       <td>https://github.com/PavelGalanin2001/2-semestr-OAiP_course-work</td>
     </tr>
+    <tr>
+      <td>Lab1</td>
+      <td>Строки в языке Си</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab2</td>
+      <td>Пользовательские функции</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab3</td>
+      <td>Структуры, перечисления, объединения</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab4</td>
+      <td>Бинарные и текстовые файлы</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab5</td>
+      <td>Индексные файлы</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab6</td>
+      <td>Модульное программирование</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab7</td>
+      <td>Динамические структуры: списки и деревья</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
