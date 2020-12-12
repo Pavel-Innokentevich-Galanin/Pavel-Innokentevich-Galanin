@@ -375,8 +375,24 @@
 
 ![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
-  - [Course work](https://github.com/PavelGalanin2001/2-semestr-OAiP_course-work)
-  
+
+<table>
+  <thead>
+    <tr>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Course work</td>
+      <td>Водоемы страны</td>
+      <td>https://github.com/PavelGalanin2001/2-semestr-OAiP_course-work</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 1 semestr
 
 ### Fundamentals of algorithmization and programming
@@ -386,7 +402,82 @@
 ![](https://img.shields.io/badge/-cmd-black?style=for-the-badge&logo=Microsoft)
 ![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
-  - [Lab1](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-1)
+
+<table>
+  <thead>
+    <tr>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab1</td>
+      <td>Windows Command Processor</td>
+      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-1</td>
+    </tr>
+    <tr>
+      <td>Lab2</td>
+      <td>
+        Этапы создания программного обеспечения
+        <br />
+        Жизненный цикл программного продукта
+        <br />
+        Понятие алгоритма
+        <br />
+        Способы описания алгоритмов
+        <br />
+        Структурированные схемы алгоритмов
+        <br />
+        Создание блок-схем
+        <br />
+        Соединение элементов блок-схемы
+        <br />
+        Навигация в многостраничных блок-схемах
+        <br />
+        Межстраничный соединитель
+      </td>
+      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-2</td>
+    </tr>
+    <tr>
+      <td>Lab3</td>
+      <td>
+        Введение в Visual Studio
+        <br />
+        Изучение среды Visual Studio. Настройка компилятора
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab4</td>
+      <td>Линейные алгоритмы. Операторы ввода и вывода в языке программирования Си</td>
+      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4</td>
+    </tr>
+    <tr>
+      <td>Lab5</td>
+      <td>Условные операторы языка С</td>
+      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-5</td>
+    </tr>
+    <tr>
+      <td>Lab6</td>
+      <td>Программирование циклических алгоритмов</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab7</td>
+      <td>Обработка статических массивов</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab8</td>
+      <td>Указатели и динамические массивы</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+  - [Lab1]()
   - [Lab2](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-2)
   - [Lab4](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4)
   - [Lab5](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4)
