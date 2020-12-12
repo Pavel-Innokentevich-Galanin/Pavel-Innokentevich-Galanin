@@ -41,7 +41,6 @@
   <thead>
     <tr>
       <td>Type</td>
-      <td>Language</td>
       <td>Topic</td>
       <td>Link</td>
     </tr>
@@ -49,7 +48,6 @@
   <tbody>
     <tr>
       <td>Lectures</td>
-      <td>C++</td>
       <td>Лекции по C++</td>
       <td>
         https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures
@@ -59,25 +57,33 @@
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td>C++</td>
       <td>Классы и объекты С++</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lab-1-variant-4</td>
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td>C++</td>
       <td>Наследование и виртуальные функции</td>
       <td></td>
     </tr>
     <tr>
       <td>Lab 3</td>
-      <td>C++</td>
       <td>Перегрузка операторов</td>
       <td></td>
     </tr>
-      <tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td>Type</td>
+      <td>Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td>Lectures</td>
-      <td>Python</td>
       <td>Лекции по Python</td>
       <td>
         https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures
@@ -87,7 +93,6 @@
     </tr>
     <tr>
       <td>Lab 4</td>
-      <td>Python</td>
       <td>
         Строки
         <br />
@@ -101,17 +106,11 @@
     </tr>
     <tr>
       <td>Lab 5</td>
-      <td>
-        Python
-        <br />
-        CSV
-      </td>
       <td>Библиотека "os". Работа с "CSV" файлами</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5</td>
     </tr>
     <tr>
       <td>Lab 6</td>
-      <td>Python</td>
       <td>
         Классы
         <br />
