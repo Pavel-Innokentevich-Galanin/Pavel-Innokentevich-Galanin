@@ -34,9 +34,7 @@
 (Языки программирования)
 
 ![](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481)
-![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
-![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
 
 <table>
   <thead>
@@ -73,6 +71,9 @@
     </tr>
   </tbody>
 </table>
+
+![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
+![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
 
 <table>
   <thead>
