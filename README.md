@@ -476,8 +476,3 @@
     </tr>
   </tbody>
 </table>
-
-  - [Lab1]()
-  - [Lab2](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-2)
-  - [Lab4](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4)
-  - [Lab5](https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4)
