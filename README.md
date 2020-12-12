@@ -13,10 +13,25 @@
 ![](https://img.shields.io/badge/-MarkDown-black?style=for-the-badge&logo=markdown)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8855d6)
 
+## Menu
+
+- [3 semestr](#3-semestr)
+  - [Programming languages](#programming-languages)
+  - [Interface and software development technologies](#interface-and-software-development-technologies)
+  - [Decision making methods and algorithms](#decision-making-methods-and-algorithms)
+  - [Discrete math](#discrete-math)
+- [2 semestr](#2-semestr)
+  - [Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming)
+- [1 semestr](#1-semestr)
+  - [Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming-1)
+  
+
 ## 3 semestr
 
 ### Programming languages
-### Языки программирования
+
+(Языки программирования)
+
 ![](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
@@ -91,8 +106,6 @@
   </tbody>
 </table>
 
-### Programming languages
-### Языки программирования
 ![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
 
@@ -162,7 +175,9 @@
 </table>
 
 ### Interface and software development technologies
-### Технологии разработки интерфейса и программных средств 
+
+(Технологии разработки интерфейса и программных средств)
+
 ![](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/-XAML-black?style=for-the-badge&logo=XAML)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
@@ -229,7 +244,9 @@
 </table>
   
 ### Decision making methods and algorithms
-### Методы и алгоритмы принятия решений
+
+(Методы и алгоритмы принятия решений)
+
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
 
@@ -294,7 +311,9 @@
 </table>
 
 ### Discrete math
-### Дискретная математика 
+
+(Дискретная математика)
+
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
 
@@ -351,15 +370,21 @@
 </table>
 
 ## 2 semestr
+
 ### Fundamentals of algorithmization and programming
-### Основы алгоритмизации и программирования
+
+(Основы алгоритмизации и программирования)
+
 ![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
   - [Course work](https://github.com/PavelGalanin2001/2-semestr-OAiP_course-work)
   
 ## 1 semestr
+
 ### Fundamentals of algorithmization and programming
-### Основы алгоритмизации и программирования
+
+(Основы алгоритмизации и программирования)
+
 ![](https://img.shields.io/badge/-cmd-black?style=for-the-badge&logo=Microsoft)
 ![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
