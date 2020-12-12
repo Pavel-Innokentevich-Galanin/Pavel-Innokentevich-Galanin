@@ -22,6 +22,7 @@
   - [(ДМ) Discrete math](#discrete-math)
 - [2 semestr](#2-semestr)
   - [(ОАиП) Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming)
+  - [(АиСД) Algorithms and data structures](#algorithms-and-data-structures)
 - [1 semestr](#1-semestr)
   - [(ОАиП) Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming-1)
   
@@ -423,6 +424,55 @@
     <tr>
       <td>Lab7</td>
       <td>Динамические структуры: списки и деревья</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+### Algorithms and data structures
+
+(Алгоритмы и структуры данных)
+
+![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+
+<table>
+  <thead>
+    <tr>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab1</td>
+      <td>Изучение методов оценки алгоритмов</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab2</td>
+      <td>Алгоритмы сортировки</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab3</td>
+      <td>Исследование и оценка алгоритмов поиска</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab4</td>
+      <td>Стэк и очередь</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab5</td>
+      <td>Бинарные деревья поиска и хэш-таблицы</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lab6</td>
+      <td>Алгоритм Дейкстры</td>
       <td></td>
     </tr>
   </tbody>
