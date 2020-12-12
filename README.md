@@ -40,8 +40,8 @@
 <table>
   <thead>
     <tr>
-      <td>Type</td>
-      <td>Topic</td>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
       <td>Link</td>
     </tr>
   </thead>
@@ -76,8 +76,8 @@
 <table>
   <thead>
     <tr>
-      <td>Type</td>
-      <td>Topic</td>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
       <td>Link</td>
     </tr>
   </thead>
@@ -129,16 +129,14 @@
 <table>
   <thead>
     <tr>
-      <td>Type</td>
-      <td>Language</td>
-      <td>Topic</td>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
       <td>Link</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Lectures</td>
-      <td>PHP</td>
       <td>Лекции по PHP</td>
       <td>
         https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures
@@ -148,23 +146,11 @@
     </tr>
     <tr>
       <td>Course work</td>
-      <td>
-        PHP
-        <br />
-        SQL
-        <br />
-        Bootstrap
-      </td>
       <td>Информационная система "Продукты"</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-YP_coursework</td>
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td>
-        HTML
-        <br />
-        PHP
-      </td>
       <td>
         Язык разметки гипертекста HTML
         <br />
@@ -174,7 +160,6 @@
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td>PHP</td>
       <td>
         Передача параметров на сервер по HTTP протоколу
         <br />
@@ -184,25 +169,21 @@
     </tr>
       <tr>
       <td>Lab 3</td>
-      <td>PHP</td>
       <td>Функциональное программирование на языке PHP</td>
       <td></td>
     </tr>
     <tr>
       <td>Lab 4</td>
-      <td>PHP</td>
       <td>Механизм сессий в PHP</td>
       <td></td>
     </tr>
     <tr>
       <td>Lab 5</td>
-      <td>PHP</td>
       <td>Объекты и классы</td>
       <td></td>
     </tr>
     <tr>
       <td>Lab 6</td>
-      <td>PHP</td>
       <td>Работа с БД в PHP</td>
       <td></td>
     </tr>
@@ -220,20 +201,14 @@
 <table>
   <thead>
     <tr>
-      <td>Type</td>
-      <td>Language</td>
-      <td>Topic</td>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
       <td>Link</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Lectures</td>
-      <td>
-        C#
-        <br />
-        XAML
-      </td>
       <td>Лекции по WPF</td>
       <td>
         https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures
@@ -244,11 +219,6 @@
     <tr>
       <td>Lab 1</td>
       <td>
-        C#
-        <br />
-        XAML
-      </td>
-      <td>
         Введение в XAML и WPF
         <br />
         Основные элементы управления WPF
@@ -258,11 +228,6 @@
     <tr>
       <td>Lab 2</td>
       <td>
-        C#
-        <br />
-        XAML
-      </td>
-      <td>
         Диспетчеры компановки
         <br />
         Привязка данных
@@ -271,7 +236,6 @@
     </tr>
     <tr>
       <td>Lab 3</td>
-      <td>XAML</td>
       <td>
         Стили
         <br />
@@ -287,7 +251,6 @@
     </tr>
     <tr>
       <td>Lab 4</td>
-      <td>XAML</td>
       <td>
         Типы анимации
         <br />
@@ -310,22 +273,19 @@
 <table>
   <thead>
     <tr>
-      <td>Type</td>
-      <td>Language</td>
-      <td>Topic</td>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
       <td>Link</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Lectures</td>
-      <td></td>
       <td>Лекции</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures</td>
     </tr>
     <tr>
       <td>Lab 1</td>
-      <td rowspan="5">any</td>
       <td>Линейная искусственная нейронная сеть. Правило обучения Видроу-Хоффа</td>
       <td rowspan="5">
         https://github.com/kroschenko/miapr_po4_2020
@@ -362,16 +322,14 @@
 <table>
   <thead>
     <tr>
-      <td>Type</td>
-      <td>Language</td>
-      <td>Topic</td>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
       <td>Link</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Lab 1</td>
-      <td rowspan="4">any</td>
       <td>Множества</td>
       <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1</td>
     </tr>
