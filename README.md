@@ -16,14 +16,14 @@
 ## Menu
 
 - [3 semestr](#3-semestr)
-  - [Programming languages](#programming-languages)
-  - [Interface and software development technologies](#interface-and-software-development-technologies)
-  - [Decision making methods and algorithms](#decision-making-methods-and-algorithms)
-  - [Discrete math](#discrete-math)
+  - [(ЯП) Programming languages](#programming-languages)
+  - [(ТРИПС) Interface and software development technologies](#interface-and-software-development-technologies)
+  - [(МиАПР) Decision making methods and algorithms](#decision-making-methods-and-algorithms)
+  - [(ДМ) Discrete math](#discrete-math)
 - [2 semestr](#2-semestr)
-  - [Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming)
+  - [(ОАиП) Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming)
 - [1 semestr](#1-semestr)
-  - [Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming-1)
+  - [(ОАиП) Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming-1)
   
 
 ## 3 semestr
