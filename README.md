@@ -271,41 +271,34 @@
       <td>different:<br/>
         Python</td>
       <td>Линейная искусственная нейронная сеть. Правило обучения Видроу-Хоффа</td>
-      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
-        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
+      <td rowspan="5">
+        https://github.com/kroschenko/miapr_po4_2020<br/><br/>
+        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs
+      </td>
     </tr>
     <tr>
       <td>Lab 2</td>
       <td>different:<br/>
         Python</td>
       <td>Линейная искусственная нейронная сеть. Адаптивный шаг обучения</td>
-      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
-        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
     </tr>
       <tr>
       <td>Lab 3</td>
       <td>different:<br/>
         Python</td>
       <td>Нелинейные ИНС в задачах прогнозирования</td>
-      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
-        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs<br/>
-        https://github.com/PavelGalanin2001/3-semestr-MiAPR_lab-3</td>
     </tr>
     <tr>
       <td>Lab 4</td>
       <td>different:<br/>
         Python</td>
       <td>Нелинейные ИНС в задачах прогнозирования</td>
-      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
-        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
     </tr>
     <tr>
       <td>Lab 5</td>
       <td>different:<br/>
         Python</td>
       <td>Нелинейные ИНС в задачах распознавания образов</td>
-      <td>https://github.com/kroschenko/miapr_po4_2020<br/>
-        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs</td>
     </tr>
   </tbody>
 </table>
