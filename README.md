@@ -66,8 +66,8 @@
     </tr>
     <tr>
       <td>Lab 3</td>
-      <td>Перегрузка операторов</td>
-      <td></td>
+      <td>Перегрузка операций. Исключения</td>
+      <td>https://github.com/PavelGalanin2001/3-semestr_YP-Cpp_lab-3</td>
     </tr>
   </tbody>
 </table>
