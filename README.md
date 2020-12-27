@@ -49,15 +49,15 @@
       <td>Lectures</td>
       <td>Лекции по C++</td>
       <td>
-        https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lectures
+        https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-Cpp_lectures
         <br /><br />
-        https://pavelgalanin2001.github.io/3-semestr-YP-Cpp_lectures/
+        https://Pavel-Innokentevich-Galanin.github.io/3-semestr-YP-Cpp_lectures/
       </td>
     </tr>
     <tr>
       <td>Lab 1</td>
       <td>Классы и объекты С++</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Cpp_lab-1-variant-4</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-Cpp_lab-1-variant-4</td>
     </tr>
     <tr>
       <td>Lab 2</td>
@@ -67,7 +67,7 @@
     <tr>
       <td>Lab 3</td>
       <td>Перегрузка операций. Исключения</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr_YP-Cpp_lab-3</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr_YP-Cpp_lab-3</td>
     </tr>
   </tbody>
 </table>
@@ -88,9 +88,9 @@
       <td>Lectures</td>
       <td>Лекции по Python</td>
       <td>
-        https://github.com/PavelGalanin2001/3-semestr-YP-Python_lectures
+        https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-Python_lectures
         <br /><br />
-        https://pavelgalanin2001.github.io/3-semestr-YP-Python_lectures/
+        https://Pavel-Innokentevich-Galanin.github.io/3-semestr-YP-Python_lectures/
       </td>
     </tr>
     <tr>
@@ -104,12 +104,12 @@
         <br />
         Функции
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-4</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-Python_lab-4</td>
     </tr>
     <tr>
       <td>Lab 5</td>
       <td>Библиотека "os". Работа с "CSV" файлами</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-5</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-Python_lab-5</td>
     </tr>
     <tr>
       <td>Lab 6</td>
@@ -120,7 +120,7 @@
         <br />
         Наследование
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-Python_lab-6</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-Python_lab-6</td>
     </tr>
   </tbody>
 </table>
@@ -141,15 +141,15 @@
       <td>Lectures</td>
       <td>Лекции по PHP</td>
       <td>
-        https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lectures
+        https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-PHP_lectures
         <br /><br />
-        https://pavelgalanin2001.github.io/3-semestr-YP-PHP_lectures/
+        https://Pavel-Innokentevich-Galanin.github.io/3-semestr-YP-PHP_lectures/
       </td>
     </tr>
     <tr>
       <td>Course work</td>
       <td>Информационная система "Продукты"</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP_coursework</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP_coursework</td>
     </tr>
     <tr>
       <td>Lab 1</td>
@@ -158,7 +158,7 @@
         <br />
         Начало работы
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-1</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-PHP_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
@@ -167,7 +167,7 @@
         <br />
         GET и POST запросы
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-YP-PHP_lab-2</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-PHP_lab-2</td>
     </tr>
       <tr>
       <td>Lab 3</td>
@@ -213,9 +213,9 @@
       <td>Lectures</td>
       <td>Лекции по WPF</td>
       <td>
-        https://github.com/PavelGalanin2001/3-semestr-TRIPS_lectures
+        https://github.com/Pavel-Innokentevich-Galanin/3-semestr-TRIPS_lectures
         <br /><br />
-        https://pavelgalanin2001.github.io/3-semestr-TRIPS_lectures
+        https://Pavel-Innokentevich-Galanin.github.io/3-semestr-TRIPS_lectures
     </td>
     </tr>
     <tr>
@@ -225,7 +225,7 @@
         <br />
         Основные элементы управления WPF
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-1</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-TRIPS_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
@@ -234,7 +234,7 @@
         <br />
         Привязка данных
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-2</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-TRIPS_lab-2</td>
     </tr>
     <tr>
       <td>Lab 3</td>
@@ -249,7 +249,7 @@
         <br />
         Множественный триггер привязки (MultiDataTrigger)
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-3</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-TRIPS_lab-3</td>
     </tr>
     <tr>
       <td>Lab 4</td>
@@ -260,7 +260,7 @@
         <br />
         Класс Storyboard - раскадровка
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-TRIPS_lab-4</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-TRIPS_lab-4</td>
     </tr>
   </tbody>
 </table>
@@ -284,7 +284,7 @@
     <tr>
       <td>Lectures</td>
       <td>Лекции</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-MiAPR_lectures</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-MiAPR_lectures</td>
     </tr>
     <tr>
       <td>Lab 1</td>
@@ -292,7 +292,7 @@
       <td rowspan="5">
         https://github.com/kroschenko/miapr_po4_2020
         <br /><br />
-        https://github.com/PavelGalanin2001/3-semestr-MiAPR_labs
+        https://github.com/Pavel-Innokentevich-Galanin/3-semestr-MiAPR_labs
       </td>
     </tr>
     <tr>
@@ -333,7 +333,7 @@
     <tr>
       <td>Lab 1</td>
       <td>Множества</td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-1</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-DiscreteMath_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
@@ -342,7 +342,7 @@
         <br />
         Функции
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-2</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-DiscreteMath_lab-2</td>
     </tr>
     <tr>
       <td>Lab 3</td>
@@ -355,7 +355,7 @@
         <br />
         Дейкстры
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-3</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-DiscreteMath_lab-3</td>
     </tr>
     <tr>
       <td>Lab 4</td>
@@ -364,7 +364,7 @@
         <br />
         Комбинаторика
       </td>
-      <td>https://github.com/PavelGalanin2001/3-semestr-DiscreteMath_lab-4</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-DiscreteMath_lab-4</td>
     </tr>
   </tbody>
 </table>
@@ -390,7 +390,7 @@
     <tr>
       <td>Course work</td>
       <td>Водоемы страны</td>
-      <td>https://github.com/PavelGalanin2001/2-semestr-OAiP_course-work</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/2-semestr-OAiP_course-work</td>
     </tr>
     <tr>
       <td>Lab1</td>
@@ -501,7 +501,7 @@
     <tr>
       <td>Lab1</td>
       <td>Windows Command Processor</td>
-      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-1</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/1-semestr-OAiP_lab-1</td>
     </tr>
     <tr>
       <td>Lab2</td>
@@ -524,7 +524,7 @@
         <br />
         Межстраничный соединитель
       </td>
-      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-2</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/1-semestr-OAiP_lab-2</td>
     </tr>
     <tr>
       <td>Lab3</td>
@@ -538,12 +538,12 @@
     <tr>
       <td>Lab4</td>
       <td>Линейные алгоритмы. Операторы ввода и вывода в языке программирования Си</td>
-      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-4</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/1-semestr-OAiP_lab-4</td>
     </tr>
     <tr>
       <td>Lab5</td>
       <td>Условные операторы языка С</td>
-      <td>https://github.com/PavelGalanin2001/1-semestr-OAiP_lab-5</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/1-semestr-OAiP_lab-5</td>
     </tr>
     <tr>
       <td>Lab6</td>
