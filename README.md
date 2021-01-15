@@ -57,12 +57,12 @@
     <tr>
       <td>Lab 1</td>
       <td>Классы и объекты С++</td>
-      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-Cpp_lab-1-variant-4</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr_YP-Cpp_lab-1</td>
     </tr>
     <tr>
       <td>Lab 2</td>
       <td>Наследование и виртуальные функции</td>
-      <td></td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr_YP-Cpp_lab-2</td>
     </tr>
     <tr>
       <td>Lab 3</td>
