@@ -172,7 +172,7 @@
       <tr>
       <td>Lab 3</td>
       <td>Функциональное программирование на языке PHP</td>
-      <td></td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/3-semestr-YP-PHP_lab-3</td>
     </tr>
     <tr>
       <td>Lab 4</td>
