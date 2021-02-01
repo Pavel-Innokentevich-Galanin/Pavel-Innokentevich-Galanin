@@ -15,6 +15,8 @@
 
 ## Menu
 
+- [4 semestr](#4-semestr)
+  - [(ОСиСП) Operating system and system programming](#operating-system-and-system-programming)
 - [3 semestr](#3-semestr)
   - [(ЯП) Programming languages](#programming-languages)
   - [(ТРИПС) Interface and software development technologies](#interface-and-software-development-technologies)
@@ -26,6 +28,36 @@
 - [1 semestr](#1-semestr)
   - [(ОАиП) Fundamentals of algorithmization and programming](#fundamentals-of-algorithmization-and-programming-1)
   
+## 4 semestr
+
+### Operating system and system programming
+
+(Операционные системы и системное программирование)
+
+![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+
+<table>
+  <thead>
+    <tr>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab 1</td>
+      <td>
+        Интерфейс
+        <br />
+        Файлы
+        <br />
+        Команды
+      </td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/4-semestr-OSiSP_lab-1</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 3 semestr
 
