@@ -1,4 +1,5 @@
 ## Languages and Tools
+![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
 ![](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
@@ -17,6 +18,7 @@
 
 - [4 semestr](#4-semestr)
   - [(ОСиСП) Operating system and system programming](#operating-system-and-system-programming)
+  - [(ООТПиСП) Object-oriented programming technologies and design standards](#object-oriented-programming-technologies-and-design-standards)
 - [3 semestr](#3-semestr)
   - [(ЯП) Programming languages](#programming-languages)
   - [(ТРИПС) Interface and software development technologies](#interface-and-software-development-technologies)
@@ -35,6 +37,7 @@
 (Операционные системы и системное программирование)
 
 ![](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
 
 <table>
   <thead>
@@ -55,6 +58,34 @@
         Команды
       </td>
       <td>https://github.com/Pavel-Innokentevich-Galanin/4-semestr-OSiSP_lab-1</td>
+    </tr>
+  </tbody>
+</table>
+
+### Object-oriented programming technologies and design standards 
+
+(Объектно-ориентированные технологии программирования и стандарты проектирования)
+
+![](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481)
+![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex)
+
+<table>
+  <thead>
+    <tr>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab 1</td>
+      <td>
+        Знакомство с Си++. 
+        <br />
+        Выполнение программы простой структуры
+      </td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/4-semestr-OOTPiSP_lab-1</td>
     </tr>
   </tbody>
 </table>
