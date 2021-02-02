@@ -87,6 +87,13 @@
       </td>
       <td>https://github.com/Pavel-Innokentevich-Galanin/4-semestr-OOTPiSP_lab-1</td>
     </tr>
+    <tr>
+      <td>Lab 2</td>
+      <td>
+        Потоковые классы
+      </td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/4-semestr-OOTPiSP_lab-2</td>
+    </tr>
   </tbody>
 </table>
 
