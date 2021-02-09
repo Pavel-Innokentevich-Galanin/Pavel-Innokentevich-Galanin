@@ -53,7 +53,7 @@
       <td>Создание интерфейса современных веб-приожений</td>
       <td>
         https://github.com/Pavel-Innokentevich-Galanin/4-semestr-Web-Technologies_lab-1
-        <br />
+        <br /><br />
         https://pavel-innokentevich-galanin.github.io/4-semestr-Web-Technologies_lab-1/
       </td>
     </tr>
