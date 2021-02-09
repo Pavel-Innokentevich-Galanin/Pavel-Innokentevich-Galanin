@@ -51,7 +51,11 @@
     <tr>
       <td>Lab 1</td>
       <td>Создание интерфейса современных веб-приожений</td>
-      <td>https://github.com/Pavel-Innokentevich-Galanin/4-semestr-Web-Technologies_lab-1</td>
+      <td>
+        https://github.com/Pavel-Innokentevich-Galanin/4-semestr-Web-Technologies_lab-1
+        <br />
+        https://pavel-innokentevich-galanin.github.io/4-semestr-Web-Technologies_lab-1/
+      </td>
     </tr>
   </tbody>
 </table>
