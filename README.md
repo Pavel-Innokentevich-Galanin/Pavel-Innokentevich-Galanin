@@ -32,6 +32,30 @@
   
 ## 4 semestr
 
+### Web-technologies
+
+(Веб-технологии)
+
+![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html)
+![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css)
+
+<table>
+  <thead>
+    <tr>
+      <td width="200px">Type</td>
+      <td width="400px">Topic</td>
+      <td>Link</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab 1</td>
+      <td>Создание интерфейса современных веб-приожений</td>
+      <td>https://github.com/Pavel-Innokentevich-Galanin/4-semestr-Web-Technologies_lab-1</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Operating system and system programming
 
 (Операционные системы и системное программирование)
