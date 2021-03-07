@@ -13,3 +13,6 @@
 ![](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
 ![](https://img.shields.io/badge/-MarkDown-black?style=for-the-badge&logo=markdown)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8855d6)
+
+## Repositories
+- [Laboratory work of the Brest State Technical University](BrSTU.md)
