@@ -2,3 +2,5 @@
 
 - 4th semestr
     - [Web Technologies](https://github.com/Pavel-Innokentevich-Galanin/BrSTU_Web-Technologies)
+- 3rd semestr
+    - [Decision-Making Methods and Algorithms](https://github.com/Pavel-Innokentevich-Galanin/BrSTU_Decision-Making-Methods-and-Algorithms)
