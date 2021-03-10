@@ -14,8 +14,8 @@
 ![](https://img.shields.io/badge/-MarkDown-black?style=for-the-badge&logo=markdown)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8855d6)
 
-![](https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin)
+![](https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin?ver=2021-03-11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin?ver=2021-03-11)
 
 ## Repositories
 - [Laboratory work of the Brest State Technical University](BrSTU.md)
