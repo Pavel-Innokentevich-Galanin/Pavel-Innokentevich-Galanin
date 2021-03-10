@@ -15,7 +15,6 @@
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8855d6)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repositories
