@@ -14,8 +14,9 @@
 ![](https://img.shields.io/badge/-MarkDown-black?style=for-the-badge&logo=markdown)
 ![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=8855d6)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin&line_height=31.5&theme=blue-green&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,stars)](https://github.com/Pavel-Innokentevich-Galanin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin&layout=compact&theme=blue-green)](https://github.com/Pavel-Innokentevich-Galanin)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repositories
 - [Laboratory work of the Brest State Technical University](BrSTU.md)
