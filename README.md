@@ -30,7 +30,7 @@
 			<td width="14.285%" align="center">WebServer</td>
 			<td width="14.285%" align="center">GitHub</td>
 			<td width="14.285%" align="center">Data Science</td>
-			<td width="14.285%" align="center">Reports</td>
+			<td width="14.285%" align="center">Tools</td>
 			<td width="14.285%" align="center">Frontend</td>
 			<td width="14.285%" align="center">Backend</td>
 			<td width="14.285%" align="center">Apps</td>
@@ -54,6 +54,9 @@
 			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-LaTeX-0d1117?style=for-the-badge&logo=latex" /> <br />
+				<img src="https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git" /> <br />
+				<img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker" /> <br />
+				<img src="https://img.shields.io/badge/-dockercompose-0d1117?style=for-the-badge&logo=docker" /> <br />
 			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-npm-0d1117?style=for-the-badge&logo=npm" /> <br />
@@ -71,6 +74,8 @@
 			<td>
 				<img src="https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=php" /> <br />
 				<img src="https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql" /> <br />
+				<img src="https://img.shields.io/badge/-WordPress-0d1117?style=for-the-badge&logo=wordpress" /> <br />
+				<img src="https://img.shields.io/badge/-Apache-0d1117?style=for-the-badge&logo=apache" /> <br />
 			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=C" /> <br />
