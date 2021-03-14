@@ -10,10 +10,10 @@
 	<tbody>
 		<tr>
 			<td align="center">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin&layout=compact" />
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin&layout=compact&theme=dark&langs_count=10" />
 			</td>
 			<td align="center">
-				<img src="https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin" />
+				<img src="https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin&count_private=true&show_icons=true&theme=dark" />
 			</td>
 		</tr>
 	</tbody>
