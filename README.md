@@ -1,3 +1,27 @@
+## Stats
+
+<table width="100%">
+	<thead width="100%">
+		<tr width="100%">
+			<td width="50%" align="center">GitHub stats</td>
+			<td width="50%" align="center">Top Langs</td>
+		</tr>
+	</thead>
+	<tbody border="0">
+		<tr border="0">
+			<td align="center">
+				<img src="https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin" />
+			</td>
+			<td align="center">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin&layout=compact" />
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Repositories
+- [Laboratory work of the Brest State Technical University](BrSTU.md)
+
 ## Languages and Tools
 
 <table width="100%">
@@ -56,27 +80,3 @@
 		</tr>
 	</tbody>
 </table>
-
-## Stats
-
-<table width="100%">
-	<thead width="100%">
-		<tr width="100%">
-			<td width="50%" align="center">GitHub stats</td>
-			<td width="50%" align="center">Top Langs</td>
-		</tr>
-	</thead>
-	<tbody border="0">
-		<tr border="0">
-			<td align="center">
-				<img src="https://github-readme-stats.vercel.app/api?username=Pavel-Innokentevich-Galanin" />
-			</td>
-			<td align="center">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Innokentevich-Galanin&layout=compact" />
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-## Repositories
-- [Laboratory work of the Brest State Technical University](BrSTU.md)
