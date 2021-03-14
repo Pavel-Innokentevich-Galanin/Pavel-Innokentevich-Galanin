@@ -39,43 +39,43 @@
 	<tbody border="0">
 		<tr border="0">
 			<td align="center">
-				<img src="https://img.shields.io/badge/-cPanel-black?style=for-the-badge&logo=cpanel" />
-				<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" />
+				<img src="https://img.shields.io/badge/-cPanel-black?style=for-the-badge&logo=cpanel" /> <br />
+				<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" /> <br />
 			</td>
 			<td align="center">
-				<img src="https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll" />
-				<img src="https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown" />
-				<img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" />
+				<img src="https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll" /> <br />
+				<img src="https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown" /> <br />
+				<img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" /> <br />
 			</td>
 			<td align="center">
-				<img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" />
-				<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242" />
+				<img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" /> <br />
+				<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242" /> <br />
 			</td>
 			<td align="center">
-				<img src="https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex" />
+				<img src="https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex" /> <br />
 			</td>
 			<td align="center">
-				<img src="https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm" />
-				<img src="https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp" />
-				<img src="https://img.shields.io/badge/-WebPack-black?style=for-the-badge&logo=webpack" />
-				<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
-				<img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html" />
-				<img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css" />
-				<img src="https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass" />
-				<img src="https://img.shields.io/badge/-LESS-black?style=for-the-badge&logo=less" />
-				<img src="https://img.shields.io/badge/-PUG-black?style=for-the-badge&logo=pug" />
-				<img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" />
-				<img src="https://img.shields.io/badge/-FontAwesome-black?style=for-the-badge&logo=fontawesome" />
+				<img src="https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm" /> <br />
+				<img src="https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp" /> <br />
+				<img src="https://img.shields.io/badge/-WebPack-black?style=for-the-badge&logo=webpack" /> <br />
+				<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" /> <br />
+				<img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html" /> <br />
+				<img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css" /> <br />
+				<img src="https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass" /> <br />
+				<img src="https://img.shields.io/badge/-LESS-black?style=for-the-badge&logo=less" /> <br />
+				<img src="https://img.shields.io/badge/-PUG-black?style=for-the-badge&logo=pug" /> <br />
+				<img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" /> <br />
+				<img src="https://img.shields.io/badge/-FontAwesome-black?style=for-the-badge&logo=fontawesome" /> <br />
 			</td>
 			<td align="center">
-				<img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" />
-				<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" />
+				<img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" /> <br />
+				<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" /> <br />
 			</td>
 			<td align="center">
-				<img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" />
-				<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481" />
-				<img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C" />
-				<img src="https://img.shields.io/badge/-XAML-black?style=for-the-badge&logo=XAML" />
+				<img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" /> <br />
+				<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481" /> <br />
+				<img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C" /> <br />
+				<img src="https://img.shields.io/badge/-XAML-black?style=for-the-badge&logo=XAML" /> <br />
 			</td>	
 		</tr>
 	</tbody>
