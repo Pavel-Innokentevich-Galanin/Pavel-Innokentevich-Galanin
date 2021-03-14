@@ -41,6 +41,7 @@
 			<td>
 				<img src="https://img.shields.io/badge/-cPanel-black?style=for-the-badge&logo=cpanel" /> <br />
 				<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" /> <br />
+				<img src="https://img.shields.io/badge/-BaSH-black?style=for-the-badge&logo=bash" /> <br />
 			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll" /> <br />
@@ -76,6 +77,8 @@
 				<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481" /> <br />
 				<img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C" /> <br />
 				<img src="https://img.shields.io/badge/-XAML-black?style=for-the-badge&logo=XAML" /> <br />
+				<img src="https://img.shields.io/badge/-BaSH-black?style=for-the-badge&logo=bash" /> <br />
+				<img src="https://img.shields.io/badge/-cmd-black?style=for-the-badge&logo=cmd" /> <br />
 			</td>	
 		</tr>
 	</tbody>
