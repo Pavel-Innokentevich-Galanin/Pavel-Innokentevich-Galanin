@@ -38,23 +38,23 @@
 	</thead>
 	<tbody border="0">
 		<tr border="0">
-			<td align="center">
+			<td>
 				<img src="https://img.shields.io/badge/-cPanel-black?style=for-the-badge&logo=cpanel" /> <br />
 				<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" /> <br />
 			</td>
-			<td align="center">
+			<td>
 				<img src="https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll" /> <br />
 				<img src="https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown" /> <br />
 				<img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" /> <br />
 			</td>
-			<td align="center">
+			<td>
 				<img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" /> <br />
 				<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=ffd242" /> <br />
 			</td>
-			<td align="center">
+			<td>
 				<img src="https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex" /> <br />
 			</td>
-			<td align="center">
+			<td>
 				<img src="https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm" /> <br />
 				<img src="https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp" /> <br />
 				<img src="https://img.shields.io/badge/-WebPack-black?style=for-the-badge&logo=webpack" /> <br />
@@ -67,11 +67,11 @@
 				<img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" /> <br />
 				<img src="https://img.shields.io/badge/-FontAwesome-black?style=for-the-badge&logo=fontawesome" /> <br />
 			</td>
-			<td align="center">
+			<td>
 				<img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" /> <br />
 				<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" /> <br />
 			</td>
-			<td align="center">
+			<td>
 				<img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" /> <br />
 				<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=004481" /> <br />
 				<img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C" /> <br />
