@@ -7,3 +7,6 @@
     - [Computer Systems and Networks](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Computer-Systems-and-Networks)
 - 3rd semestr
     - [Decision-Making Methods and Algorithms](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-3-sem_Decision-Making-Methods-and-Algorithms)
+    - [Programming Languages](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-3-sem_coursework) - ***coursework***
+- 2nd semestr
+    - [Fundamentals of Algorithmization and Programming](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-2-sem_coursework) - ***coursework***
