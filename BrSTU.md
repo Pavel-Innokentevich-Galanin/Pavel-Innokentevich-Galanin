@@ -1,4 +1,4 @@
-# Laboratory work of the Brest State Technical University
+# Brest State Technical University. Laboratory, practical and course work
 
 - 4th semestr
     - [Web Technologies](https://github.com/Pavel-Innokentevich-Galanin/BrSTU_Web-Technologies) ([view repository on organization](https://github.com/lwwwrjke-org/po-4-wt))
