@@ -20,7 +20,7 @@
 </table>
 
 ## Repositories
-- [Laboratory work of the Brest State Technical University](BrSTU.md)
+- [Brest State Technical University. Laboratory, practical and course work](BrSTU.md)
 
 ## Languages and Tools
 
