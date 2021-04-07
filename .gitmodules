@@ -10,3 +10,6 @@
 [submodule "BrSTU/4-semestr/KSiS"]
 	path = BrSTU/4-semestr/KSiS
 	url = https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Computer-Systems-and-Networks
+[submodule "BrSTU/4-semestr/coursework"]
+	path = BrSTU/4-semestr/coursework
+	url = https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4sem_coursework
