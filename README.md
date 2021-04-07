@@ -21,6 +21,10 @@
 
 ## Repositories
 
+### Homeworks
+- IT-Shark-pro
+	- [Social UI](https://github.com/Pavel-Innokentevich-Galanin/IT-Shark-pro_web-school)
+
 ### Brest State Technical University. Laboratory, practical and course work
 
 - 4th semestr
