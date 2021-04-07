@@ -23,7 +23,7 @@
 
 ### Homeworks
 - IT-Shark-pro
-	- [Social UI](https://github.com/Pavel-Innokentevich-Galanin/IT-Shark-pro_web-school)
+	- [Social UI](https://github.com/Pavel-Innokentevich-Galanin/IT-Shark-pro_web-school) - [open site](https://pavel-innokentevich-galanin.github.io/IT-Shark-pro_web-school/)
 
 ### Brest State Technical University. Laboratory, practical and course work
 
