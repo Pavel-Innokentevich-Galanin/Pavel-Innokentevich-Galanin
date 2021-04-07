@@ -1,0 +1,12 @@
+[submodule "BrSTU/4-semestr/WT"]
+	path = BrSTU/4-semestr/WT
+	url = https://github.com/lwwwrjke-org/po-4-wt
+[submodule "BrSTU/4-semestr/OSiSP"]
+	path = BrSTU/4-semestr/OSiSP
+	url = https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Operating-Systems-and-System-Programming
+[submodule "BrSTU/4-semestr/OOTPiSP"]
+	path = BrSTU/4-semestr/OOTPiSP
+	url = https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Object-Oriented-Programming-Technologies-and-Design-Standards
+[submodule "BrSTU/4-semestr/KSiS"]
+	path = BrSTU/4-semestr/KSiS
+	url = https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Computer-Systems-and-Networks
