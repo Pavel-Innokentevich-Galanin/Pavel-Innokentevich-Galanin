@@ -30,16 +30,16 @@
 ### Brest State Technical University. Laboratory, practical and course work
 
 - 4th semestr
-    - [Web Technologies](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Web-Technologies) ([view repository on organization](https://github.com/lwwwrjke-org/po-4-wt))
-    - [Operating Systems and System Programming](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Operating-Systems-and-System-Programming)
-    - [Object-Oriented Programming Technologies and Design Standards](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Object-Oriented-Programming-Technologies-and-Design-Standards)
-    - [Computer Systems and Networks](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4-sem_Computer-Systems-and-Networks)
-    - [Computer Systems and Networks (neural network)](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-4sem_coursework) - ***coursework***
+    - [Web Technologies](https://github.com/Pavel-Innokentevich-Galanin/4-sem_WT) ([view repository on organization](https://github.com/lwwwrjke-org/po-4-wt))
+    - [Operating Systems and System Programming](https://github.com/Pavel-Innokentevich-Galanin/4-sem_OSiSP)
+    - [Object-Oriented Programming Technologies and Design Standards](https://github.com/Pavel-Innokentevich-Galanin/4-sem_OOTPiSP)
+    - [Computer Systems and Networks](https://github.com/Pavel-Innokentevich-Galanin/4-sem_KSiS)
+    - [Computer Systems and Networks (neural network)](https://github.com/Pavel-Innokentevich-Galanin/4-sem_coursework) - ***coursework***
 - 3rd semestr
-    - [Decision-Making Methods and Algorithms](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-3-sem_Decision-Making-Methods-and-Algorithms)
-    - [Programming Languages](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-3-sem_coursework) - ***coursework***
+    - [Decision-Making Methods and Algorithms](https://github.com/Pavel-Innokentevich-Galanin/3-sem_MiAPR)
+    - [Programming Languages](https://github.com/Pavel-Innokentevich-Galanin/3-sem_coursework) - ***coursework***
 - 2nd semestr
-    - [Fundamentals of Algorithmization and Programming](https://github.com/Pavel-Innokentevich-Galanin/BrSTU-2-sem_coursework) - ***coursework***
+    - [Fundamentals of Algorithmization and Programming](https://github.com/Pavel-Innokentevich-Galanin/2-sem_YP) - ***coursework***
 
 ## Languages and Tools
 
