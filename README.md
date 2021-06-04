@@ -1,4 +1,7 @@
-## Website
+## Welcome
+
+**So, I introduce my self, I Pavel Galanin. My CV you can see on this site**
+
 https://pavel-innokentevich-galanin.github.io/
 
 ## Stats
