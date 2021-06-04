@@ -2,7 +2,7 @@
 
 **So, I introduce my self, I Pavel Galanin. My CV you can see on this site**
 
-<a target="_blank" href="https://pavel-innokentevich-galanin.github.io/">https://pavel-innokentevich-galanin.github.io/</a>
+https://pavel-innokentevich-galanin.github.io
 
 ## Stats
 <table width="100%">
